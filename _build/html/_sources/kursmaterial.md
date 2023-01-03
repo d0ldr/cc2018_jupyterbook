@@ -4,4 +4,4 @@ Material lorem ipsum.
 Lorem ipsum.
 ## Pinout Raspberry Pi Pico W
 Lorem ipsum.
-![pinout](../picow-pinout.svg)
+![pinout](picow-pinout.svg)
