@@ -4,9 +4,7 @@
 format: jb-book
 root: intro
 chapters:
-- file: kursplanering
-- file: kursmaterial
-- file: kommaigang
-- file: inlamning1
-- file: inlamning2
-- file: inlamning3
+- file: inlamning1/inlamning1
+- file: inlamning2/inlamning2
+- file: inlamning3/inlamning3
+- file: inlamning4/inlamning4
